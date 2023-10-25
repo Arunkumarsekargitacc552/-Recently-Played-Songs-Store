@@ -34,9 +34,9 @@ store.addSong("user1", "S1");
 List<String> recentlyPlayedSongs = store.getRecentlyPlayedSongs("user1");
 System.out.println("Recently played songs for user1: " + recentlyPlayedSongs);
 
-**Credits**
+Credits
 This project was created by Arunkumar Sekar.
 
-## **License**
+License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
