@@ -37,6 +37,6 @@ System.out.println("Recently played songs for user1: " + recentlyPlayedSongs);
 **Credits**
 This project was created by Arunkumar Sekar.
 
-## License
+## **License**
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
